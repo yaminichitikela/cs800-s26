@@ -29,9 +29,10 @@ Directory extract cmd:
                 learnyouhtml-2of11.png
 
 ![Before](imgs/learnyouhtml-2of11.png)
+![After](imgs/done A1.png)
 
 ## Completion Link
-[YouTube: ]()
+YouTube: [https://youtu.be/G22rfYGr-4Q](https://youtu.be/G22rfYGr-4Q)
 
 ## CMD used
 `ls - mkdir - cd`
