@@ -97,5 +97,7 @@ CRN 32738
 
 * Weekly review of current events: https://groups.google.com/g/cs800-s26
 
-* Assignment 1: Course Setup and RCR
+* Assignment 1: Course Setup
    * [Due: Feb 2](/assignments/assignment-01.md)
+* Assignment 2: Presence, Tools, and RCR
+   * [Due: Feb 9](/assignments/assignment-02.md)
