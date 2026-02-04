@@ -1,6 +1,6 @@
 # Assignment 1: Course Setup
-**Course :** CS 800:Research methods;<br>
-**Student :** Anurudh Singh;<br>
+**Course :** CS 800:Research methods<br>
+**Student :** Anurudh Singh<br>
 **Semester :** Spring 2026
 
 
