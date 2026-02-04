@@ -8,13 +8,35 @@
 
 
 
+\## Description
+
 This assignment covers the initial setup, Git/GitHub usage, basic html exercises, documentation and youtube video.
 
 
 
+\## Steps Completed
+
+1\. Installed Node.js and npm
+
+2\. Installed Git for Windows
+
+3\. Created GitHub account
+
+4\. Forked class repository
+
+5\. Cloned repository locally
+
+6\. Installed learnyouhtml globally
+
+7\. Completed all HTML workshop exercises
+
+8\. Created documentation (this README)
+
+9\. Recorded and uploaded demonstration video
 
 
-The screenshoot:
+
+\##The screenshoot: Workshop Completion
 
 !\[learnyouhtml workshop completion](A1\_assignment.jpg)
 
